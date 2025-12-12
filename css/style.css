@@ -1,0 +1,16 @@
+body {
+    justify-items: center;
+    align-content: center;
+    height: 100vh;
+    background-color: #ffe4ef; 
+}
+
+.box-pink {
+    background-color: #ffd9e8; 
+    padding: 30px;
+    max-width: 650px;
+    margin: 50px auto;
+    border-radius: 18px;
+    box-shadow: 0 4px 18px rgba(255, 100, 150, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+}
